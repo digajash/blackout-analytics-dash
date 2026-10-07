@@ -1,0 +1,7 @@
+hook_id,song,tick_label,hours_since_post,pull_id,date,time_CT,song_plays,song_likes,song_comments,Δ_plays_vs_prior_tick,Δ_likes,Δ_comments,hours_since_prior_tick,plays_per_hr,hot_safe_flag,source
+H-MUDDY-02,Muddy Water Ft. Devil's Swill,Baseline (pre-post),-6.4,P-20261005-1235,2026-10-05,12:35 PM,281,3,0,,,,,,,wave-watch tracker · midday pull (pre-post baseline)
+H-MUDDY-02,Muddy Water Ft. Devil's Swill,T+~1.5h,1.5,P-20261005-2024,2026-10-05,8:24 PM,384,3,0,103,0,0,7.9,,,wave-watch tracker · evening snap
+H-MUDDY-02,Muddy Water Ft. Devil's Swill,T+~8.5h,8.5,P-20261006-0340,2026-10-06,3:40 AM,742,5,1,358,2,1,7,51,,wave-watch tracker · morning brief
+H-MUDDY-02,Muddy Water Ft. Devil's Swill,T+~17.5h,17.5,P-20261006-1235,2026-10-06,12:35 PM,1203,9,7,461,4,6,9,51,,wave-watch tracker · midday
+H-MUDDY-02,Muddy Water Ft. Devil's Swill,T+~18.75h,18.75,P-20261006-1343,2026-10-06,1:43 PM,1239,9,7,36,0,0,1.25,29,,wave-watch tracker · fill pull
+H-MUDDY-02,Muddy Water Ft. Devil's Swill,T+~20.85h,20.85,P-20261006-1551,2026-10-06,3:51 PM,1276,10,7,37,1,0,2.1,18,STILL HOT — WAIT,wave-watch tracker · missed-mark catch-up
